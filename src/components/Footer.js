@@ -8,7 +8,7 @@ const Footer = () => {
       <Stack gap='40px' alignItems='center' px='40px' pt='24px'>
         <img src={Logo} alt='logo' width='200px' height='40px'/>
         <Typography variant='h6' pb='40px' mt='20px'>
-          Excaliose '23'
+          Excaliose '23 API project
         </Typography>
       </Stack>
     </Box>
